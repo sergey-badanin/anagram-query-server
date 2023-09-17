@@ -1,0 +1,5 @@
+Hello, you are connected to the Anagram Query Server.
+Please adhere following protocol to communicate with it:
+- Use simple text commands
+- [string1,string2] - To assess if string1 and string2 are anargrams
+- <query_string> - To request from server all anagrams for queryString thet were previously assessed
