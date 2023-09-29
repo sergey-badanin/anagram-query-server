@@ -35,3 +35,6 @@ $ docker container stop anagram-server
 $ docker container rm anagram-server
 $ docker image rm anagram-server
 ```
+
+This repo is an implementation for the spec:
+![Task](/media/task_statement.png)
