@@ -37,4 +37,4 @@ $ docker image rm anagram-server
 ```
 
 #### This repo is an implementation for the spec:
-![Task](/media/task_statement.png)
+[Spec](/media/task_statement.png)
